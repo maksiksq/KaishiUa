@@ -3,11 +3,11 @@
 Вітаю у публічній репозиторії українського перекладу **KaishiUa 1.5k**, сучасної колоди Anki, створеної щоб дозволити початківцям отримати базовий Японський словниковий запас.
 Ось так виглядає передня сторона колоди:
 
-<img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-front.png" alt="Front of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
+<img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-front.png" alt="Передня частина картки KaishiUa 1.5k" style="width: 100%; height: auto">
 
 Ось вивчаємо слово і речення до цього слова. Обираєш чи ти знаєш, чи пам'ятаєш це слово, і бачиш задню сторону:
 
-<img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-back.png" alt="Back of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
+<img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishiua-back.png" alt="Задня частина картки KaishiUa 1.5k" style="width: 100%; height: auto">
 
 На задній стороні його значенням та переклад речення, повторюєш і починаєш вивчати, щоденно, по трошки.
 
