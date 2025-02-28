@@ -4,11 +4,11 @@
 
 Ось так виглядає передня сторона колоди:
 
-<img src="https://github.com/maksiksking/KaishiUa/blob/main/pics/kaishi-front.png" alt="Передня частина картки KaishiUa 1.5k" style="width: 100%; height: auto">
+<img src="https://github.com/maksiksq/KaishiUa/blob/main/pics/kaishi-front.png" alt="Передня частина картки KaishiUa 1.5k" style="width: 100%; height: auto">
 
 Ось вивчаємо слово і речення до цього слова. Далі відкриваємо карточку, і на задній стороні бачимо його значення та переклад речення:
 
-<img src="https://github.com/maksiksking/KaishiUa/blob/main/pics/kaishiua-back.png" alt="Задня частина картки KaishiUa 1.5k" style="width: 100%; height: auto"> 
+<img src="https://github.com/maksiksq/KaishiUa/blob/main/pics/kaishiua-back.png" alt="Задня частина картки KaishiUa 1.5k" style="width: 100%; height: auto"> 
 Обираєш чи ти знаєш, чи пам'ятаєш це слово, повторюєш і починаєш вивчати, по трошки.
 
 ### Зміст цієї сторінки
@@ -23,7 +23,7 @@
 
 ## Де мені отримати колоду?
 
-Щоб використовувати потрібно мати чи встановити [Anki](https://apps.ankiweb.net/), після цього можна змінити інтерфейс на українську (ctrl+p і там Language), або цього не робити. Далі встановити .apkg файл зі сторінки [релізів](https://github.com/maksiksking/KaishiUa/releases) чи з [AnkiWeb](https://ankiweb.net/shared/info/871374951?cb=1736783944302), і імпортувати колоду кнопкою `Імпортувати файл` -> `Імпорт`. Далі використовувати, як саме описано далі.
+Щоб використовувати потрібно мати чи встановити [Anki](https://apps.ankiweb.net/), після цього можна змінити інтерфейс на українську (ctrl+p і там Language), або цього не робити. Далі встановити .apkg файл зі сторінки [релізів](https://github.com/maksiksq/KaishiUa/releases) чи з [AnkiWeb](https://ankiweb.net/shared/info/871374951?cb=1736783944302), і імпортувати колоду кнопкою `Імпортувати файл` -> `Імпорт`. Далі використовувати, як саме описано далі.
 
 ## Що? Де? Коли?
 
@@ -162,7 +162,7 @@ Kaishi - 開始, що значить "початок". Це навіть не б
 Yuashi - 湯足, що може значити "ванна для ніг".
 
 ## Помилки та пропозиції
-Якщо знайшли якусь помилку, створіть пост на github issue трекері [ось тут](https://github.com/maksiksking/KaishiUa/issues). <br/>
+Якщо знайшли якусь помилку, створіть пост на github issue трекері [ось тут](https://github.com/maksiksq/KaishiUa/issues). <br/>
 В колоді є суржик, і так задумано. Крім того, пропущено кілька потрібних за правописом ком, бо вони лишні.
 
 ## Подяки
